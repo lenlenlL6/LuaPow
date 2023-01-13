@@ -4,11 +4,11 @@
 - Download the source code at github.
 - Unzip it at the main Lua directory.
 ### Require a library ⚙️
-> String library require
+> String library require.
 ```lua
 require("LuaPow/string/StringLoader")
 ```
-> Table library require
+> Table library require.
 ```lua
 require("LuaPow/table/TableLoader")
 ```
